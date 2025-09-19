@@ -21,3 +21,5 @@ for i in range(1,101):
 
 df_users = pd.DataFrame(users)
 df_users.to_csv(r"D:\data-lake-project\data\user.csv", index=False)
+
+# genearete transection 
